@@ -37,21 +37,22 @@ I take ideas from a circuit or a database schema all the way to a working produc
 
 <img src="https://skillicons.dev/icons?i=java,spring,nextjs,ts,python,postgres,arduino,git,github,vscode" alt="Tech stack"/>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
-
-</div>
-
-<div align="center">
-
-<img src="assets/project-thiranx.svg" width="100%" alt="Featured project ThiranX: career and coding progress tracker built with Next.js, React, TypeScript, Tailwind CSS, Supabase and Google Gemini"/>
 
 <!-- Add CleanSei here as another card once you have the details and the repo link. -->
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
-<a href="https://leetcode.com/u/thekameshs/">
-  <img src="assets/leetcode.svg" width="240" alt="122 LeetCode problems solved"/>
-</a>
+### LeetCode Practice
+
+<p align="center">
+  <a href="https://leetcode.com/u/thekameshs/">
+    <img src="assets/leetcode.svg" width="360" alt="LeetCode profile: 122 problems solved"/>
+  </a>
+</p>
+
+<p align="center">Practicing data structures and algorithms through consistent problem solving.</p>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 <a href="https://www.linkedin.com/in/kameshsenthil/">
   <img src="assets/cta.svg" width="100%" alt="Open to internships and collaborations in software development, full-stack and AI-enabled applications"/>
