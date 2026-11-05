@@ -41,31 +41,20 @@ I take ideas from a circuit or a database schema all the way to a working produc
 
 </div>
 
-### Featured project
-
-**ThiranX: career and coding progress tracker.** A full-stack platform where learners plan roadmaps, track progress and get AI guidance in one place.
-
-- Roadmaps with AI-generated tasks
-- LeetCode and GitHub progress integration
-- AI coach for guidance and insights
-- Calendar and to-do planning
-
-`Next.js` `React` `TypeScript` `Tailwind CSS` `Supabase` `Google Gemini`
-
-<!-- Add CleanSei here in the same format once you have the details and the repo link. -->
-
 <div align="center">
+
+<img src="assets/project-thiranx.svg" width="100%" alt="Featured project ThiranX: career and coding progress tracker built with Next.js, React, TypeScript, Tailwind CSS, Supabase and Google Gemini"/>
+
+<!-- Add CleanSei here as another card once you have the details and the repo link. -->
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
 <a href="https://leetcode.com/u/thekameshs/">
-  <img src="https://leetcard.jacoblin.cool/thekameshs?theme=dark&font=Karla" alt="LeetCode stats" width="440"/>
+  <img src="assets/leetcode.svg" width="240" alt="122 LeetCode problems solved"/>
 </a>
 
-<br/><br/>
-
-**Open to internships and collaborations in software development, full-stack and AI-enabled applications.**
-
-<img src="assets/divider.svg" width="100%" alt=""/>
+<a href="https://www.linkedin.com/in/kameshsenthil/">
+  <img src="assets/cta.svg" width="100%" alt="Open to internships and collaborations in software development, full-stack and AI-enabled applications"/>
+</a>
 
 </div>
